@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\birdy.cs">
+    <Files>
+      <File FileName="Assets\scripts\candyBuySell.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\dieTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\birdy.cs" Line="97" Column="48" />
+      <File FileName="Assets\scripts\sekerUret.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\spikeSpawnController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Trigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\loadScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\sceneLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\intro.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\backToStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\reloadGame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
